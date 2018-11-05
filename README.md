@@ -2,4 +2,4 @@
 ## Created by Max Prigent
 ### Date: 11/5/18
 
-This program calculates wages.
+This program calculates wages for an employee.
